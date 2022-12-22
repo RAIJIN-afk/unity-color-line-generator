@@ -1,0 +1,15 @@
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\bin\Debug\net6.0\unity-color-line-generator.exe
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\bin\Debug\net6.0\unity-color-line-generator.deps.json
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\bin\Debug\net6.0\unity-color-line-generator.runtimeconfig.json
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\bin\Debug\net6.0\unity-color-line-generator.dll
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\bin\Debug\net6.0\unity-color-line-generator.pdb
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.csproj.AssemblyReference.cache
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.AssemblyInfoInputs.cache
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.AssemblyInfo.cs
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.dll
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\refint\unity-color-line-generator.dll
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.pdb
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\unity-color-line-generator.genruntimeconfig.cache
+C:\Users\Akash\Source\Repos\unity-color-line-generator\unity-color-line-generator\obj\Debug\net6.0\ref\unity-color-line-generator.dll
